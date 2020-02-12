@@ -8,6 +8,12 @@
     height: 90vh;
   }
 
+  li{
+    border-radius: 10px;
+    border: 1px solid lightgrey;
+    padding: 10px;
+  }
+
   li:hover {
     cursor: pointer;
   }
